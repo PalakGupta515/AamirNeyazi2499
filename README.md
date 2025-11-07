@@ -2,7 +2,11 @@
 
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Aamir Neyazi 
 👋</h1>
-<h3 align="center">🚀 B.Tech CSE Student | 💻 Web Developer | 📊 Aspiring Data Scientist</h3>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+Student+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%8C%9F;Web+Developer+%F0%9F%8C%9F;Always+Learning+New+Things+%F0%9F%93%9A)
+  
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AamirNeyazi2499&label=Profile%20views&color=0e75b6&style=flat" alt="AamirNeyazi2499" /> </p>
 
 
